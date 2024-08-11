@@ -1,4 +1,4 @@
-Overview
+Overview:
 This project involved a comprehensive analysis of e-commerce sales data, focusing on various dimensions such as orders versus sales, sales comparison among different demographics, and regional sales performance. The aim was to derive actionable insights that could inform strategic decisions for enhancing sales and marketing efforts.
 
 Key Analyses Conducted:
